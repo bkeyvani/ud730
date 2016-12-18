@@ -1,0 +1,9 @@
+*.pyc
+*.temp
+*.tmp
+.DS_Store
+.idea/
+.ipynb_checkpoints/
+ops_logs/
+temp/
+tmp/
