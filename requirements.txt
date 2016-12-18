@@ -1,4 +1,5 @@
 ipdb==0.10.1
 jupyter==1.0.0
+matplotlib==1.5.3
 pandas==0.19.1
 tflearn==0.2.1
